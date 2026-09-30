@@ -1,11 +1,11 @@
 {
-  "collected_at": "2026-09-30T14:36:12+09:00",
+  "collected_at": "2026-09-30T14:41:15+09:00",
   "line_counts_per_shard": {
-    "1": 183,
-    "2": 195,
-    "3": 220
+    "1": 234,
+    "2": 239,
+    "3": 282
   },
   "pilot_count": 50,
   "workers_alive": 3,
-  "remaining_estimate": 3035
+  "remaining_estimate": 2878
 }
